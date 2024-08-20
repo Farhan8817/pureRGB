@@ -1,6 +1,6 @@
 ItemPrices::
 	table_width 3, ItemPrices
-	bcd3 0     ; MASTER_BALL
+	bcd3 1     ; MASTER_BALL
 	bcd3 1200  ; ULTRA_BALL
 	bcd3 600   ; GREAT_BALL
 	bcd3 200   ; POKE_BALL
@@ -16,8 +16,8 @@ ItemPrices::
 	bcd3 200   ; AWAKENING
 	bcd3 200   ; PARLYZ_HEAL
 	bcd3 2200  ; FULL_RESTORE
-	bcd3 1800  ; MAX_POTION
-	bcd3 1200  ; HYPER_POTION
+	bcd3 1     ; MAX_POTION
+	bcd3 1     ; HYPER_POTION
 	bcd3 700   ; SUPER_POTION
 	bcd3 300   ; POTION
 	bcd3 0     ; SAFARI_BAIT
@@ -39,7 +39,7 @@ ItemPrices::
 	bcd3 5000  ; IRON
 	bcd3 5000  ; CARBOS
 	bcd3 5000  ; CALCIUM
-	bcd3 4000  ; RARE_CANDY
+	bcd3 1	   ; RARE_CANDY
 	bcd3 0     ; DOME_FOSSIL
 	bcd3 0     ; HELIX_FOSSIL
 	bcd3 0     ; SECRET_KEY
