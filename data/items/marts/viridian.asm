@@ -4,4 +4,6 @@ ViridianMartClerkText::
 	POKE_BALL, \
 	ANTIDOTE, \
 	PARLYZ_HEAL, \
-	BURN_HEAL
+	BURN_HEAL, \
+	MASTER_BALL, \
+	RARE_CANDY
